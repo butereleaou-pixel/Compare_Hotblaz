@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6184aca05c6d5455288f6c4bba099e06128d24b43a8b2f17f90638ddacc680b5
-size 1436
+{
+  "generate": {
+    "mean_line_ratio": 0.880,
+    "ignore_count": 3,
+    "temperature": 0.934,
+    "temperature_compare": 0.795
+  },
+  "test": {
+    "mean_line_ratio": 0.946,
+    "ignore_count": 3,
+    "temperature": 0.934,
+    "temperature_compare": 0.795
+  },
+  "bk2": {
+    "mean_line_ratio": 1,
+    "ignore_count": 3,
+    "temperature": 0.934,
+    "temperature_compare": 0.795
+  },
+  "bk": {
+    "mean_line_ratio": 0.995142,
+    "ignore_count": 3,
+    "temperature": 0.934,
+    "temperature_compare": 0.795
+  },
+  "backup": {
+    "mean_line_ratio": 0.995,
+    "ignore_count": 3,
+    "temperature": 0.932,
+    "temperature_compare": 0.78
+  },
+  "backup2": {
+    "mean_line_ratio": 0.9975,
+    "ignore_count": 3,
+    "temperature": 0.932,
+    "temperature_compare": 0.78
+  },
+  "backup3": {
+    "mean_line_ratio": 0.996,
+    "ignore_count": 3,
+    "temperature": 0.932,
+    "temperature_compare": 0.795
+  },
+  "backup4": {
+    "mean_line_ratio": 0.996,
+    "ignore_count": 3,
+    "temperature": 0.933,
+    "temperature_compare": 0.795
+  },
+  "backup5": {
+    "mean_line_ratio": 0.9975,
+    "ignore_count": 3,
+    "temperature": 0.933,
+    "temperature_compare": 0.795
+  },
+  "backup6": {
+    "mean_line_ratio": 0.9951,
+    "ignore_count": 3,
+    "temperature": 0.933,
+    "temperature_compare": 0.795
+  }
+}

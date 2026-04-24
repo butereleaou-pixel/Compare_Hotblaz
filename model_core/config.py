@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cdf5dea52c1599f95c50a1684ba81a7be7bffccb3ea2e6424e3cd06e7b9aff3a
-size 227
+D_MODEL = 280
+N_HEADS = 4
+N_LAYERS = 4
+
+#D_MODEL = 64
+#N_HEADS = 2
+#N_LAYERS = 1
+
+LR = 5e-5
+EPOCHS = 1000
+WARMUP_EPOCHS = 10
+BATCH_SIZE = 2
+VAL_RATIO = 0.15
+PATIENCE = 100
+CLIP_GRAD = 1.0
+
+WEIGHT_DECAY = 1e-2
+DROPOUT_RATE = 0.3

@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1342447d09a5e6a156f3d8ad5064b00f5b49265e653846fb20780c4dbed8827e
-size 2610
+[
+  {
+    "index": 12,
+    "question": "A methanol solution of (R)-(+)-Limonene is stirred with Pd/C under a Hydrogen atmosphere. After 1 equivalent of hydrogen is consumed, product 1 is isolated as the major product.\n\n1 is treated with 3-chloroperbenzoic acid, forming product 2.\n\nProduct 2 is treated with sodium methoxide, forming product 3.\n\nProduct 3 is treated with propanoic acid, dicyclohexylcarbodiimide. and a catalytic amount of  4-dimethylaminopyridine, forming product 4.\n\nwhat is a valid structure of product 4? (product 4 exists as a mixture of isomers. the correct answer is one of them).",
+    "correct_option": "A",
+    "model_choice": "B",
+    "model_raw_output": "The hydrogenation of (R)-(+)-limonene with Pd/C consumes one equivalent of H₂, selectively reducing the exocyclic double bond to yield (4R)-1-methyl-4-isopropylcyclohex-1-ene as product 1. Epoxidation with mCPBA occurs from the less hindered face opposite the bulky isopropyl group, forming the (1S,2S,4R)-epoxide as product 2. Ring-opening with sodium methoxide follows an SN₂ mechanism at the less substituted C2, inverting its configuration to give (1S,2R,4R)-2-methoxy-1-hydroxy-4-isopropyl-1-methylcyclohexane as product 3. Esterification with propanoic acid and DCC/DMAP converts the alcohol to the propionate ester, yielding product 4 with the stereochemistry (1S,2R,4R), which corresponds to option B.\n\nANSWER: B",
+    "judge_result": "WRONG",
+    "timestamp": "2026-03-11T13:20:40.924162"
+  },
+  {
+    "index": 75,
+    "question": "You want to create a mouse embryonic chimera with induced pluripotent stem cells from somatic cells of various tissues. You are interested in the iPSCs fate in the embryo and their co-localization with apoptotic events. The iPSC cells are labeled with a mRaspberry fused under a lineage-specific promoter for each cell type. You inject the dedifferentiated cells into the 32-cell stage blastocyst and track them over 48. Every 12 h, you prepare embryos with the TUNEL - FITC staining and observe under the confocal microscope.\n\nWhat is the first thing you notice?",
+    "correct_option": "A",
+    "model_choice": "B",
+    "model_raw_output": "Based on the experimental design and typical outcomes in chimera studies, injected iPSCs often undergo apoptosis due to competition or incomplete reprogramming, leading to colocalization of apoptotic signals (green) with iPSC markers (red). This is the most immediate and notable observation when tracking cell fate and apoptosis.\n\nANSWER: B",
+    "judge_result": "WRONG",
+    "timestamp": "2026-03-11T18:10:03.363952"
+  }
+]

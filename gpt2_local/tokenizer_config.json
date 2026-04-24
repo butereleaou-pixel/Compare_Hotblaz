@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:249c3075f7ebd7a683df40dff53729ab189afeb30139bb5a45c05c68f12466ac
-size 286
+{
+  "add_prefix_space": false,
+  "backend": "tokenizers",
+  "bos_token": "<|endoftext|>",
+  "eos_token": "<|endoftext|>",
+  "errors": "replace",
+  "is_local": false,
+  "model_max_length": 1024,
+  "pad_token": null,
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": "<|endoftext|>"
+}

@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79159196ef4195371056d5ca0ac945aba921265414bde4c2599d9df73a2af1bb
-size 4693
+First of all, when you receive my question, please analyze its scope and severity. If the question relates to serious or large-scale real-world problems, proceed as follows:
+Select 5 distinct, real-world compare_samples of similar situations across at least 5 different categories (e.g., industrial, biological, geological, physical, chemical, electronic, medical, environmental, economic, political, technological, cultural, educational, entertainment, etc.). Ensure no two examples are from the same subcategory (e.g., avoid two medical examples focusing on the same disease).
+Each sample have to be a pattern that commonly exists and frequently appears;
+Construct the sample with charactors face a familiar system, leading them to improvise and adapt their actions. Begin by establishing the routine environment and the tools or structures they rely on, then subtly introduce the constraint that disrupts their usual methods. Describe how they assess the situation, weigh alternatives, and implement new strategies using available resources. Conclude by illustrating the broader consequences of their choices, both intended and unintended. Ensure the story flows logically, with each development emerging naturally from the previous one, without explicitly naming the catalyst or resolution. Focus on the interplay between characters, their surroundings, and the evolving dynamics of their environment;
+
+-Ensure diversity in complexity—include both simple, solvable issues (e.g., fixing a household appliance) and large-scale challenges (e.g., mitigating climate change in a city).
+-Avoid fictional or hypothetical scenarios; stick to documented, historical, or currently ongoing problems with verifiable solutions.
+-Structure the response clearly, labeling each example with its category and number (e.g., [Industrial #1], [Biological #2]).
+-Do not repeat methodologies—each example should demonstrate a unique problem-solving approach (e.g., avoid multiple examples using only "data analysis" unless the contexts differ significantly).
+-Prioritize clarity and conciseness—each example should fit within 120 words (excluding references).
+
+sample Format:
+"compare_sample 1: 
+[Category #X] :
+...
+[END]"
+"compare_sample 2: 
+[Category #X]:
+...
+[END]"
+
+...
+
+"compare_sample 5: 
+[Category #X]:
+...
+[END]"
+
+
+please analyze its scope and severity. If the question relates to normal daily-life situations, proceed as follows:
+Select 5 distinct, real-world compare_samples of similar situations across at least 5 different categories (e.g., household, cooking, technology, health, finance, travel, education, pets, gardening, automotive, fashion, sports, entertainment, DIY, communication). Ensure no two examples are from the same subcategory (e.g., avoid two cooking examples focusing on the same dish).
+Each sample have to be a pattern that commonly exists and frequently appears;
+Construct the sample with charactors face a familiar system, leading them to improvise and adapt their actions. Begin by establishing the routine environment and the tools or structures they rely on, then subtly introduce the constraint that disrupts their usual methods. Describe how they assess the situation, weigh alternatives, and implement new strategies using available resources. Conclude by illustrating the broader consequences of their choices, both intended and unintended. Ensure the story flows logically, with each development emerging naturally from the previous one, without explicitly naming the catalyst or resolution. Focus on the interplay between characters, their surroundings, and the evolving dynamics of their environment;
+
+-Ensure diversity in complexity—include both simple, solvable issues (e.g., unclogging a drain) and moderately challenging problems (e.g., planning a budget-friendly vacation).
+-Avoid fictional or hypothetical scenarios; stick to documented, common, or currently ongoing daily-life problems with verifiable solutions.
+-Structure the response clearly, labeling each example with its category and number (e.g., [Household #1], [Cooking #2]).
+-Do not repeat methodologies—each example should demonstrate a unique problem-solving approach (e.g., avoid multiple examples using only "cleaning hacks" unless the contexts differ significantly).
+-Prioritize clarity and conciseness—each example should fit within 120 words (excluding references).
+
+sample Format:
+"compare_sample 1: 
+[Category #X]:
+...
+[END]"
+"compare_sample 2: 
+[Category #X]:
+...
+[END]"
+
+...
+
+"compare_sample 5: 
+[Category #X]:
+...
+[END]"
+
+Others ,if after your analysis , the situation is conected with socialism , please add social habits and metaphom in the similar 10 situation you raised .

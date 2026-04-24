@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff025f1d70b2e9dcf8cbe9a6673ea677b9ead83d0c39de9dc40713c18bb49419
-size 348
+{
+  "generate": {
+    "mean_line_ratio": 0.880,
+    "ignore_count": 3,
+    "pre_sample_parallel_limit": 7,
+    "sample_max_tasks": 8,
+    "sample_parallel_limit": 7,
+    "answer_max_worker": 9,
+    "temperature": 0.934,
+    "temperature_compare": 0.795,
+    "model_path": "model_core/model_pth/final_model_after_ctrlc_282929230424223_916.pth"
+  }
+}
