@@ -64,8 +64,8 @@ pip install requirements.txt
 ```shell
 pip install hotblaz
 ```
-- Download the emmbeding model `model.safetensors`([download](https://huggingface.co/Hotblaz/Compare_Anti_9/resolve/main/gpt2_model/model.safetensors?download=true)) and answer analysis model `final_model_after_ctrlc_282929230424223_916.pth`([download](https://huggingface.co/Hotblaz/Compare_Anti_9/resolve/main/model_core/model_pth/final_model_after_ctrlc_282929230424223_916.pth?download=true)) from huggingface.
-- Put emmbedng model into `gpt2_local` and put answer analysis model into `model_core/model_pth`
+- Download the embedding model `model.safetensors` ([download](https://huggingface.co/Hotblaz/Compare_Anti_9/resolve/main/gpt2_model/model.safetensors?download=true)) and answer analysis model `final_model_after_ctrlc_282929230424223_916.pth` ([download](https://huggingface.co/Hotblaz/Compare_Anti_9/resolve/main/model_core/model_pth/final_model_after_ctrlc_282929230424223_916.pth?download=true)) from HuggingFace.
+- Put embedding model into `gpt2_local` and put answer analysis model into `model_core/model_pth`
 
 - Find the file `llm_api`, and fill in your real parameters: `YOUR_MODEL_API_ADDRESS`, `YOUR_REAL_API_TOKEN`, `YOUR_REAL_MODEL_TYPE`
 
@@ -186,6 +186,8 @@ python trainin.py
 #### 3. Final Result
 
 **Euclidean Distance:**
+**Create Multidimension for Small Transformer:**
+**Benchmark Test:**
 
 - For this part, you can check on HuggingFace [here](https://huggingface.co/Hotblaz/Compare_Anti_9)
 
