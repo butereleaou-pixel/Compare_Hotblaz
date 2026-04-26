@@ -185,8 +185,8 @@ python trainin.py
 
 #### 3. Final Result
 
-**Euclidean Distance:**
-**Create Multidimension for Small Transformer:**
+**Euclidean Distance:**<br>
+**Create Multidimension for Small Transformer:**<br>
 **Benchmark Test:**
 
 - For this part, you can check on HuggingFace [here](https://huggingface.co/Hotblaz/Compare_Anti_9)
