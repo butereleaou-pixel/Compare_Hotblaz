@@ -56,7 +56,9 @@ numpy 2.1.2
 ```shell
 git clone https://github.com/butereleaou-pixel/Compare_Hotblaz.git
 ```
-
+```shell
+pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+```
 ```shell
 pip install -r requirements.txt
 ```
