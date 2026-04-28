@@ -831,7 +831,7 @@ def compare_chat(user_input_ori: str, db_path: str, correct_answer = "A", index 
         print(f"\n❌ CRASH DETECTED in compare_chat: {e}")
         print(traceback.format_exc())
         print("\n🔄 Running crash recovery: copy_file.py")
-        
+        sqlite3.connect(db_path).close()
         replace_database(db_path)
         print("✅ Recovery script executed")
 
