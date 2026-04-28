@@ -58,7 +58,7 @@ git clone https://github.com/butereleaou-pixel/Compare_Hotblaz.git
 ```
 
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ```shell
