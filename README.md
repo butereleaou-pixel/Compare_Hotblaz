@@ -35,7 +35,7 @@
   </tr>
 </div>
 
-- We optimized the base model Deepseek-V3.2-thinking by <font color="blue">6.54%</font> with a base score of <font color="blue">85.86%</font>, reaching a final score of <font color="blue">92.4%</font>, which is top 5 among LLMs worldwide.
+- We optimized the base model Deepseek-V3.2-thinking by <font color="blue">6.54%</font> with a base score of <font color="blue">85.86%</font>, reaching a final score of <font color="blue">92.6%</font>, which is top 5 among LLMs worldwide.
 - The test record is on GitHub. You can click [here](https://github.com/butereleaou-pixel/Compare_Hotblaz/tree/cd17a17548cf67b9683dcabce525b31e6a024ea1/test_record) to check.
 
 # 3. Quick Start
