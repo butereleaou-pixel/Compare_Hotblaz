@@ -10,7 +10,10 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-hotblaz.com-FFD700?logo=googlechrome&logoColor=white&color=FFD700" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://x.com/Mark_Leou" target="_blank" style="margin: 2px;">
-  <img alt="X" src="https://img.shields.io/badge/Follow On X-000000?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="X" src="https://img.shields.io/badge/Follow On X-000000?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+  <a href="https://doi.org/10.5281/zenodo.20550836" target="_blank" style="margin: 2px;">
+    <img alt="Paper" src="https://img.shields.io/badge/View-Paper-4CAF50?logo=readme&logoColor=white" style="display: inline-block; vertical-align: middle; height:20px;"/>
   </a>
 </div>
 
